@@ -90,7 +90,7 @@
     grid-column: repeat(5, 1fr);
   }
 .baris .item {
-  font-size: 5rem;
+  font-size: 1.2rem;
   font-weight: bold;
   background-color: aqua;
 }
