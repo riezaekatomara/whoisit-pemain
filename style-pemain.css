@@ -3,7 +3,7 @@
   flex-direction: row;
   justify-content: space-around;
   gap: 1.2rem;
-  grid-column: repeat(3, 1fr);
+  grid-column: repeat(5, 1fr);
 }
 
 .baris .item {
